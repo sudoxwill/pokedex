@@ -1,29 +1,147 @@
-<div align='center'>
-<image src='./assets/images/splash2.png' alt='logo' width="250px"/>
- 
-![badge-1](https://img.shields.io/badge/Dart-Flutter-blue)
-![badge-1](https://img.shields.io/badge/Languages-+2-yellow)
-![badge-1](https://img.shields.io/badge/Version-1.0.0-blue?logo=github&style=social)
+# 🐱‍👤 Pokédex
 
-</div>
+A **Pokédex mobile application built with Flutter**, created as my first exploration of building a complete application with Flutter.
+
+The project focuses on creating a clean Pokémon browsing experience while experimenting with Flutter's UI components, layouts, assets, and application structure.
+
+> 📌 **Note:** This repository contains the **first version** of my Pokédex project. It is primarily a learning and experimentation project.
+
+---
+
+## ✨ Features
+
+* 🔴 Pokémon-focused interface
+* 📱 Mobile-first Flutter UI
+* 🖼️ Custom Pokémon assets
+* 🧩 Reusable Flutter widgets
+* 🎨 Custom application styling
+* 📦 Structured Flutter project
+* 🌐 Flutter support for multiple platforms
+
+---
+
+## 🛠️ Tech Stack
+
+| Technology          | Usage                 |
+| ------------------- | --------------------- |
+| **Flutter**         | Application framework |
+| **Dart**            | Programming language  |
+| **Material Design** | UI components         |
+
+---
+
+## 📸 Screenshots
 
 <p align="center">
-  <a href="#page_with_curl-about">About</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#thought_balloon-inspiration">Inspiration</a>
+  <img src="assets/images/screenshot1.png" width="200"/>
+  <img src="assets/images/screenshot2.png" width="200"/>
+  <img src="assets/images/screenshot3.png" width="200"/>
 </p>
 
-## :page_with_curl: About
-<p align='center'> This repository contains a repo of the 1st version of my Pokedex app.</p>
+> Replace the screenshot paths above with the actual screenshots you want to showcase in the repository.
 
-<div align='center'>
-<image src='./assets/images/1.jpg' alt='logo' width="150px"/> 
- <image src='./assets/images/2.jpg' alt='logo' width="150px"/>
-</div>
+---
 
+## 🚀 Getting Started
 
+### Prerequisites
 
+Make sure you have Flutter installed on your machine.
 
-# :thought_balloon: Inspiration
+You can verify your installation with:
 
+```bash
+flutter doctor
+```
 
-<p align='center'> Made with ❤️ by WKN 👋🏻 </p>
+### Installation
+
+Clone the repository:
+
+```bash
+git clone https://github.com/sudoxwill/Pokedex.git
+```
+
+Navigate to the project:
+
+```bash
+cd Pokedex
+```
+
+Install the dependencies:
+
+```bash
+flutter pub get
+```
+
+Run the application:
+
+```bash
+flutter run
+```
+
+---
+
+## 📂 Project Structure
+
+```text
+lib/
+├── ...
+│
+├── screens/       # Application screens
+├── widgets/       # Reusable UI components
+└── main.dart      # Application entry point
+
+assets/
+└── images/        # Pokémon and application assets
+```
+
+The project also includes the standard Flutter platform folders for Android, iOS, Web, Linux, macOS and Windows.
+
+---
+
+## 🎯 Project Goals
+
+The main purpose of this project was to practice:
+
+* Building interfaces with Flutter
+* Structuring a Flutter application
+* Working with custom assets
+* Creating reusable widgets
+* Managing application layouts
+* Exploring cross-platform Flutter development
+
+This project represents one of my early steps in learning and experimenting with Flutter.
+
+---
+
+## 🔮 Future Improvements
+
+Possible improvements for future versions include:
+
+* [ ] Pokémon search
+* [ ] Pokémon filtering
+* [ ] Detailed Pokémon pages
+* [ ] Pokémon statistics
+* [ ] Evolution chains
+* [ ] Favorites
+* [ ] API integration
+* [ ] Animations and transitions
+* [ ] Dark mode
+* [ ] Improved responsive layouts
+
+---
+
+## 📚 Inspiration
+
+The project was created as a personal learning project around the concept of a digital Pokédex.
+
+The Pokémon universe and related intellectual property belong to their respective owners.
+
+---
+
+## 📄 License
+
+This project is intended for **educational and personal experimentation**.
+
+Pokémon and all related names, characters, artwork, and trademarks belong to their respective owners.
