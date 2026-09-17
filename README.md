@@ -33,9 +33,8 @@ The project focuses on creating a clean Pokémon browsing experience while exper
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="assets/images/screenshot1.png" width="200"/>
-  <img src="assets/images/screenshot2.png" width="200"/>
-  <img src="assets/images/screenshot3.png" width="200"/>
+  <img src="assets/images/1.jpg" width="200"/>
+  <img src="assets/images/2.jpg" width="200"/>
 </p>
 
 > Replace the screenshot paths above with the actual screenshots you want to showcase in the repository.
